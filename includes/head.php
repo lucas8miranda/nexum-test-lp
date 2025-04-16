@@ -1,0 +1,38 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nexum Clube - Profissionalização e Consultoria para Empresas em Crescimento</title>
+<meta name="description" content="O Nexum Clube oferece consultoria especializada para empresas que querem melhorar seus resultados em até 90 dias. Descubra estratégias implementadas nas maiores empresas com Felipe Thalacker.">
+<meta name="keywords" content="consultoria empresarial, profissionalização de empresas, mentoria de negócios, Felipe Thalacker, crescimento empresarial, resultados empresariais">
+<meta name="author" content="Felipe Thalacker">
+
+<!-- Metatags Open Graph para compartilhamento em redes sociais -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://nexumclube.com.br/">
+<meta property="og:title" content="Nexum Clube - Profissionalização e Consultoria para Empresas em Crescimento">
+<meta property="og:description" content="Consultoria personalizada para empresas que querem dobrar seus resultados em 90 dias. Conheça as estratégias utilizadas nas maiores empresas do Brasil.">
+<meta property="og:image" content="https://nexumclube.com.br/assets/img/og-image.jpg">
+
+<!-- Metatags Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nexum Clube - Melhore seus resultados em 90 dias">
+<meta name="twitter:description" content="Consultoria personalizada para empresas que querem melhorar seus resultados em tempo recorde.">
+<meta name="twitter:image" content="https://nexumclube.com.br/assets/img/og-image.jpg">
+
+<!-- Favicon -->
+<link rel="icon" href="assets/img/favicon.ico">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://nexumclube.com.br/">
+
+<!-- Folhas de estilo -->
+<link rel="stylesheet" href="assets/css/landing.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Scripts -->
+<script src="assets/js/landing.js" defer></script>
+<script src="https://unpkg.com/scrollreveal"></script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js" defer></script>
+
+
+<!-- Google Tag Manager (se necessário) -->
